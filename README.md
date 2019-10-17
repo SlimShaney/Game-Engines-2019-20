@@ -12,5 +12,3 @@
  - The obstacles which arise will be **randomly generated** (i.e. things will not spawn in the same place or order on consecutive playthroughs)
  - Asteroids the player destroys and power-ups they collect will afford them **extra points**
  - Though there will be a score-system implemented, the **main goa**l of this project will be **to display impressive visuals** to the accompanying music track
-
-<iframe src="https://giphy.com/embed/frBakxQhSlxIT9l9ri" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/frBakxQhSlxIT9l9ri">via GIPHY</a></p>
