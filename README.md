@@ -5,7 +5,7 @@
  - An **interactive** Audio-Visualiser **game**
  - Players will take control of a **starship/turret** in the bottom centre of the screen (somewhere between the Dead Space & Star Fox gameplay below)
 
-![](dead-space-turret.gif)   ![](Star-Fox.gif)
+![](dead-space-turret.gif)![](Star-Fox.gif)
 
  - Whatever **audio** is being played in the background **will affect the visual space** on-screen
  - **Asteroids** will be **procedurally created** in the path of the player and they will need to destroy them to survive
