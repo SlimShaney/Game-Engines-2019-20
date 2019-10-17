@@ -4,6 +4,7 @@
 # Project Proposal
  - An **interactive** Audio-Visualiser **game**
  - Players will take control of a **starship/turret** in the bottom centre of the screen
+   ![](dead-space-turret.gif)
  - Whatever **audio** is being played in the background **will affect the visual space** on-screen
  - **Asteroids** will be **procedurally created** in the path of the player and they will need to destroy them to survive
  - The obstacles which arise will be **randomly generated** (i.e. things will not spwan in the same place or order on consecutive playthroughs)
