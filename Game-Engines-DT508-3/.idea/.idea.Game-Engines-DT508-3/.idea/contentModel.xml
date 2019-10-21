@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\shane\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\shane\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Game-Engines-DT508-3.2013432171.00" t="ExcludeRecursive" />
+    <e p="C:\Users\shane\Documents\GitHub\Game-Engines-2019-20\Game-Engines-DT508-3" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Starfield Skybox" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Script" t="Include">
+              <e p="LookCamera.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="turretControl.cs" t="Include" />
+      </e>
+      <e p="Game-Engines-DT508-3.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
