@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/turretControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/turretControl.cs" afterDir="false" />
-    </list>
+    <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="-285">
               <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
                 <marker date="1556822008000" expanded="false" signature="6:78" ph="..." />
@@ -128,12 +123,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571683653791</updated>
       <workItem from="1571683675604" duration="1295000" />
-      <workItem from="1575043596941" duration="561000" />
+      <workItem from="1575043596941" duration="1069000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1856000" />
+    <option name="totallyTimeSpent" value="2364000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,7 +209,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="-285">
           <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
             <marker date="1556822008000" expanded="false" signature="6:78" ph="..." />
