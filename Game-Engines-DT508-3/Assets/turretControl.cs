@@ -10,7 +10,7 @@ public class turretControl : MonoBehaviour
     public Transform currentPosition;
     public Transform targetPosition;
 
-    private float timeCount = 0.0f;
+    private float timeCount = 1.0f;
     
     void Start()
     {

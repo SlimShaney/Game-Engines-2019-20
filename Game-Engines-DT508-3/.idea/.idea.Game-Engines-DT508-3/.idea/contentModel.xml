@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\shane\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\shane\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Game-Engines-DT508-3.2013432171.00" t="ExcludeRecursive" />
-    <e p="C:\Users\shane\Documents\GitHub\Game-Engines-2019-20\Game-Engines-DT508-3" t="IncludeRecursive">
+    <e p="C:\Users\shane\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Game-Engines-DT508-3.-1832379811.00" t="ExcludeRecursive" />
+    <e p="C:\Users\shane\AppData\local\Android\Sdk\platforms\android-28\data\res" t="IncludeRecursive" />
+    <e p="C:\Users\shane\AppData\local\Android\Sdk\sources\android-28" t="IncludeRecursive" />
+    <e p="E:\Git Repo\Game-Engines-2019-20\Game-Engines-DT508-3" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Starfield Skybox" t="Include">
