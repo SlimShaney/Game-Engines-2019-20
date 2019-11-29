@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class PlayerLook : MonoBehaviour
 {
@@ -8,6 +9,10 @@ public class PlayerLook : MonoBehaviour
     [SerializeField] private float mouseSensitivity;
 
     [SerializeField] private Transform playerBody;
+    public Transform leftTurret;
+    public Transform rightTurret;
+
+    public Transform aimReticle;
 
     private float xAxisClamp;
 

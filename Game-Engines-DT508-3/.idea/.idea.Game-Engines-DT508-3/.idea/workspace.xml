@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="" />
+    <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-285">
@@ -45,12 +47,33 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+              <folding>
+                <marker date="1575046495277" expanded="false" signature="6:78" ph="..." />
+                <marker date="1575046495277" expanded="true" signature="148:1573" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="475:536" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="568:630" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="657:695" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="730:1367" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="973:1099" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="1137:1263" ph="{...}" />
+                <marker date="1575046495277" expanded="true" signature="1424:1571" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/turretControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -58,6 +81,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/turretControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" />
       </list>
     </option>
   </component>
@@ -66,9 +90,9 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="443" />
-    <option name="y" value="62" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="317" />
+    <option name="y" value="92" />
     <option name="width" value="1145" />
     <option name="height" value="930" />
   </component>
@@ -123,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571683653791</updated>
       <workItem from="1571683675604" duration="1295000" />
-      <workItem from="1575043596941" duration="1069000" />
+      <workItem from="1575043596941" duration="2530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2364000" />
+    <option name="totallyTimeSpent" value="3825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,8 +164,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="62" width="1145" height="930" extended-state="1" />
-    <editor active="true" />
+    <frame x="317" y="92" width="1145" height="930" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -220,6 +243,24 @@
             <marker date="1556822008000" expanded="true" signature="1164:1319" ph="{...}" />
             <marker date="1556822008000" expanded="true" signature="1222:1313" ph="{...}" />
             <marker date="1556822008000" expanded="true" signature="1357:1866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <marker date="1575046495277" expanded="false" signature="6:78" ph="..." />
+            <marker date="1575046495277" expanded="true" signature="148:1573" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="475:536" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="568:630" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="657:695" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="730:1367" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="973:1099" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="1137:1263" ph="{...}" />
+            <marker date="1575046495277" expanded="true" signature="1424:1571" ph="{...}" />
           </folding>
         </state>
       </provider>
