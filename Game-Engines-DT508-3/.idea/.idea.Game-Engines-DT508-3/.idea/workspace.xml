@@ -72,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="534">
@@ -98,15 +98,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="60">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
-                <marker date="1562932031245" expanded="false" signature="6:91" ph="..." />
-                <marker date="1562932031245" expanded="true" signature="125:645" ph="{...}" />
-                <marker date="1562932031245" expanded="true" signature="275:380" ph="{...}" />
-                <marker date="1562932031245" expanded="true" signature="438:643" ph="{...}" />
+                <marker date="1575394501487" expanded="false" signature="6:91" ph="..." />
+                <marker date="1575394501487" expanded="true" signature="125:659" ph="{...}" />
+                <marker date="1575394501487" expanded="true" signature="275:380" ph="{...}" />
+                <marker date="1575394501487" expanded="true" signature="438:657" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -165,6 +166,7 @@
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs" />
       </list>
     </option>
   </component>
@@ -231,12 +233,12 @@
       <updated>1571683653791</updated>
       <workItem from="1571683675604" duration="1295000" />
       <workItem from="1575043596941" duration="2530000" />
-      <workItem from="1575388701603" duration="4396000" />
+      <workItem from="1575388701603" duration="5160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8221000" />
+    <option name="totallyTimeSpent" value="8985000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,7 +250,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
@@ -392,18 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1562932031245" expanded="false" signature="6:91" ph="..." />
-            <marker date="1562932031245" expanded="true" signature="125:645" ph="{...}" />
-            <marker date="1562932031245" expanded="true" signature="275:380" ph="{...}" />
-            <marker date="1562932031245" expanded="true" signature="438:643" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-75">
@@ -442,6 +432,19 @@
             <marker date="1575393480874" expanded="true" signature="2836:3290" ph="{...}" />
             <marker date="1575393480874" expanded="true" signature="3023:3276" ph="{...}" />
             <marker date="1575393480874" expanded="true" signature="3418:3516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1575394501487" expanded="false" signature="6:91" ph="..." />
+            <marker date="1575394501487" expanded="true" signature="125:659" ph="{...}" />
+            <marker date="1575394501487" expanded="true" signature="275:380" ph="{...}" />
+            <marker date="1575394501487" expanded="true" signature="438:657" ph="{...}" />
           </folding>
         </state>
       </provider>

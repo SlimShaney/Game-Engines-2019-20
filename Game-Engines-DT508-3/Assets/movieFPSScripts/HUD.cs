@@ -22,6 +22,6 @@ public class HUD : MonoBehaviour
     {
         gunDetails = GetComponentInChildren<Gun>();
         ammoCount.text = gunDetails.currentAmmo + "/" + gunDetails.fullAmmo;
-        currentHealth.text = "Health: " + health.currentHealth;
+        currentHealth.text = "Hull Integrity: " + health.currentHealth + "%";
     }
 }
