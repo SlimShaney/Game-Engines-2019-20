@@ -16,11 +16,11 @@ public class Gun : MonoBehaviour
 
     private Animator animator;
     private AudioSource gunShot;
-    private Shoot shootScript;
+    private turretsFire shootScript;
     
     void Start()
     {
-        shootScript = GetComponentInParent<Shoot>();
+        shootScript = GetComponentInParent<turretsFire>();
         currentAmmo = fullAmmo;
 
         animator = gameObject.GetComponent<Animator>();
