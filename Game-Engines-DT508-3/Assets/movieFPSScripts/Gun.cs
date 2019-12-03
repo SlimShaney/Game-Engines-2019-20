@@ -35,15 +35,15 @@ public class Gun : MonoBehaviour
 
     public void Shoot()
     {
-        gunShot.Play();
-        animator.SetTrigger("Shoot");
+        //gunShot.Play();
+        //animator.SetTrigger("Shoot");
     }
 
     public IEnumerator Reload()
     {
         shootScript.isReloading = true;
         Debug.Log("Reload");
-        animator.SetTrigger("Reload");
+        //animator.SetTrigger("Reload");
         //gunReload.Play();
         yield return new WaitForSeconds(reloadTime);
         //anim.SetBool("Reloading", false);
