@@ -19,9 +19,9 @@
    ![](Audio-Visualiser.gif)
  
 # Features / Feature Implementation Checklist
- [ ] Turrets follow mouse cursor/screen centre at delayed rate
+ - [ ] Turrets follow mouse cursor/screen centre at delayed rate
 	- Camera to world-point so turrets know what to aim towards – maybe do so by having a canvas out in front of the ship with a reticle on it which moves around via mouse-pointer/right controller-joystick
- [ ] Both turrets fire in tandem and reload together
+ - [ ] Both turrets fire in tandem and reload together
 	- Either turrets fire together, or which turret that fires depends on which mouse button/controller-trigger is pressed
 	- If so then each turret reloads when empty or maybe energy returns over time when not being fired – maybe even a mix of both
 	- If turret is not being fired it regains charge, however if player presses reload the battery of both turrets gets changed – full ammo
