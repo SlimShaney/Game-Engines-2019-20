@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class Gun : MonoBehaviour
@@ -17,6 +18,8 @@ public class Gun : MonoBehaviour
     private Animator animator;
     private AudioSource gunShot;
     private turretsFire shootScript;
+
+    public TMP_Text ammoCount;
     
     void Start()
     {
@@ -30,7 +33,7 @@ public class Gun : MonoBehaviour
 
     void Update()
     {
-        
+        ammoCount.text = currentAmmo + "/" + fullAmmo;
     }
 
     public void Shoot()

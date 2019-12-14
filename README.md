@@ -26,10 +26,10 @@
 	- If so then each turret reloads when empty or maybe energy returns over time when not being fired – maybe even a mix of both
 	- If turret is not being fired it regains charge, however if player presses reload the battery of both turrets gets changed – full ammo
 	- If one turret runs out either both automatically get new batteries or maybe only the empty one will
- - [ ] Holographic display above turrets show ammo count/energy remaining
-	- Place canvas in world-space above/beside each turret
-	- Assign the TMP element as the ammo display – digital font
-	- Colour to make seem like hologram
+ - [x] Holographic display above turrets show ammo count/energy remaining
+	- ~Place canvas in world-space above/beside each turret~
+	- ~Assign the TMP element as the ammo display – digital font~
+	- ~Colour to make seem like hologram~
  - [ ] Spawn asteroids
 	- Create range for where asteroids spawn from – large quad maybe
 	- Choose random point from range and Spawn()

@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/turretControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="285">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <marker date="1575391650070" expanded="false" signature="6:78" ph="..." />
                 <marker date="1575391650070" expanded="true" signature="122:663" ph="{...}" />
@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="90">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <marker date="1575389087402" expanded="false" signature="6:78" ph="..." />
@@ -50,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="99" column="1" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="1" />
+            <state relative-caret-position="1395">
+              <caret line="99" column="1" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="1" />
               <folding>
                 <marker date="1575392028737" expanded="false" signature="6:78" ph="..." />
                 <marker date="1575392028737" expanded="true" signature="114:2846" ph="{...}" />
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="90" column="74" lean-forward="true" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
+            <state relative-caret-position="321">
+              <caret line="90" column="74" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
               <folding>
                 <marker date="1575393480874" expanded="false" signature="6:78" ph="..." />
                 <marker date="1575393480874" expanded="true" signature="120:3524" ph="{...}" />
@@ -98,36 +98,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
-                <marker date="1575394501487" expanded="false" signature="6:91" ph="..." />
-                <marker date="1575394501487" expanded="true" signature="125:659" ph="{...}" />
-                <marker date="1575394501487" expanded="true" signature="275:380" ph="{...}" />
-                <marker date="1575394501487" expanded="true" signature="438:657" ph="{...}" />
+                <marker date="1576329647960" expanded="false" signature="6:91" ph="..." />
+                <marker date="1576329647960" expanded="true" signature="125:669" ph="{...}" />
+                <marker date="1576329647960" expanded="true" signature="279:386" ph="{...}" />
+                <marker date="1576329647960" expanded="true" signature="444:667" ph="{...}" />
+                <marker date="1576329647960" expanded="true" signature="459:583" ph="/* gunDetails = GetComponentInChildren&lt;Gun&gt;(); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
-              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="245">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
-                <marker date="1575393267379" expanded="false" signature="6:78" ph="..." />
-                <marker date="1575393267379" expanded="true" signature="112:1239" ph="{...}" />
-                <marker date="1575393267379" expanded="true" signature="435:653" ph="{...}" />
-                <marker date="1575393267379" expanded="true" signature="673:694" ph="{...}" />
-                <marker date="1575393267379" expanded="true" signature="719:797" ph="{...}" />
-                <marker date="1575393267379" expanded="true" signature="734:791" ph="/* gunShot.Play(); ... */" />
-                <marker date="1575393267379" expanded="true" signature="830:1237" ph="{...}" />
-                <marker date="1575393267379" expanded="true" signature="914:974" ph="/* animator.SetTrigger(&quot;Reload&quot;); ... */" />
-                <marker date="1575393267379" expanded="true" signature="1036:1126" ph="/* anim.SetBool(&quot;Reloading&quot;, false); ... */" />
+                <marker date="1576329648042" expanded="false" signature="6:91" ph="..." />
+                <marker date="1576329648042" expanded="true" signature="125:1330" ph="{...}" />
+                <marker date="1576329648042" expanded="true" signature="480:698" ph="{...}" />
+                <marker date="1576329648042" expanded="true" signature="718:785" ph="{...}" />
+                <marker date="1576329648042" expanded="true" signature="810:888" ph="{...}" />
+                <marker date="1576329648042" expanded="true" signature="825:882" ph="/* gunShot.Play(); ... */" />
+                <marker date="1576329648042" expanded="true" signature="921:1328" ph="{...}" />
+                <marker date="1576329648042" expanded="true" signature="1005:1065" ph="/* animator.SetTrigger(&quot;Reload&quot;); ... */" />
+                <marker date="1576329648042" expanded="true" signature="1127:1217" ph="/* anim.SetBool(&quot;Reloading&quot;, false); ... */" />
               </folding>
             </state>
           </provider>
@@ -164,9 +165,9 @@
         <option value="$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs" />
         <option value="$PROJECT_DIR$/Assets/turretControl.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs" />
-        <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs" />
+        <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" />
       </list>
     </option>
   </component>
@@ -175,9 +176,9 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="315" />
+    <option name="y" value="90" />
     <option name="width" value="1145" />
     <option name="height" value="930" />
   </component>
@@ -234,11 +235,12 @@
       <workItem from="1571683675604" duration="1295000" />
       <workItem from="1575043596941" duration="2530000" />
       <workItem from="1575388701603" duration="6491000" />
+      <workItem from="1576329372730" duration="273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10316000" />
+    <option name="totallyTimeSpent" value="10589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +252,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="73" width="916" height="744" extended-state="0" />
+    <frame x="252" y="72" width="916" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -303,18 +306,8 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-565">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/PlayerMove.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMovement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/PlayerMove.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/RaycastShoot.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1540">
@@ -341,8 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/turretControl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="285">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <marker date="1575391650070" expanded="false" signature="6:78" ph="..." />
             <marker date="1575391650070" expanded="true" signature="122:663" ph="{...}" />
@@ -355,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="90">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <marker date="1575389087402" expanded="false" signature="6:78" ph="..." />
@@ -372,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="99" column="1" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="1" />
+        <state relative-caret-position="1395">
+          <caret line="99" column="1" selection-start-line="6" selection-start-column="4" selection-end-line="99" selection-end-column="1" />
           <folding>
             <marker date="1575392028737" expanded="false" signature="6:78" ph="..." />
             <marker date="1575392028737" expanded="true" signature="114:2846" ph="{...}" />
@@ -393,28 +386,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <marker date="1575393267379" expanded="false" signature="6:78" ph="..." />
-            <marker date="1575393267379" expanded="true" signature="112:1239" ph="{...}" />
-            <marker date="1575393267379" expanded="true" signature="435:653" ph="{...}" />
-            <marker date="1575393267379" expanded="true" signature="673:694" ph="{...}" />
-            <marker date="1575393267379" expanded="true" signature="719:797" ph="{...}" />
-            <marker date="1575393267379" expanded="true" signature="734:791" ph="/* gunShot.Play(); ... */" />
-            <marker date="1575393267379" expanded="true" signature="830:1237" ph="{...}" />
-            <marker date="1575393267379" expanded="true" signature="914:974" ph="/* animator.SetTrigger(&quot;Reload&quot;); ... */" />
-            <marker date="1575393267379" expanded="true" signature="1036:1126" ph="/* anim.SetBool(&quot;Reloading&quot;, false); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="90" column="74" lean-forward="true" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
+        <state relative-caret-position="321">
+          <caret line="90" column="74" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
           <folding>
             <marker date="1575393480874" expanded="false" signature="6:78" ph="..." />
             <marker date="1575393480874" expanded="true" signature="120:3524" ph="{...}" />
@@ -437,13 +412,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="300">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding>
-            <marker date="1575394501487" expanded="false" signature="6:91" ph="..." />
-            <marker date="1575394501487" expanded="true" signature="125:659" ph="{...}" />
-            <marker date="1575394501487" expanded="true" signature="275:380" ph="{...}" />
-            <marker date="1575394501487" expanded="true" signature="438:657" ph="{...}" />
+            <marker date="1576329647960" expanded="false" signature="6:91" ph="..." />
+            <marker date="1576329647960" expanded="true" signature="125:669" ph="{...}" />
+            <marker date="1576329647960" expanded="true" signature="279:386" ph="{...}" />
+            <marker date="1576329647960" expanded="true" signature="444:667" ph="{...}" />
+            <marker date="1576329647960" expanded="true" signature="459:583" ph="/* gunDetails = GetComponentInChildren&lt;Gun&gt;(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <marker date="1576329648042" expanded="false" signature="6:91" ph="..." />
+            <marker date="1576329648042" expanded="true" signature="125:1330" ph="{...}" />
+            <marker date="1576329648042" expanded="true" signature="480:698" ph="{...}" />
+            <marker date="1576329648042" expanded="true" signature="718:785" ph="{...}" />
+            <marker date="1576329648042" expanded="true" signature="810:888" ph="{...}" />
+            <marker date="1576329648042" expanded="true" signature="825:882" ph="/* gunShot.Play(); ... */" />
+            <marker date="1576329648042" expanded="true" signature="921:1328" ph="{...}" />
+            <marker date="1576329648042" expanded="true" signature="1005:1065" ph="/* animator.SetTrigger(&quot;Reload&quot;); ... */" />
+            <marker date="1576329648042" expanded="true" signature="1127:1217" ph="/* anim.SetBool(&quot;Reloading&quot;, false); ... */" />
           </folding>
         </state>
       </provider>
