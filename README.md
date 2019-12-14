@@ -22,8 +22,8 @@
  - [ ] Turrets follow mouse cursor/screen centre at delayed rate
 	- Camera to world-point so turrets know what to aim towards – maybe do so by having a canvas out in front of the ship with a reticle on it which moves around via mouse-pointer/right controller-joystick
  - [ ] Both turrets fire in tandem and reload together
-	- Either turrets fire together, or which turret that fires depends on which mouse button/controller-trigger is pressed
-	- If so then each turret reloads when empty or maybe energy returns over time when not being fired – maybe even a mix of both
+	- ~Which turret that fires depends on which mouse button/controller-trigger is pressed~
+	- ~Each turret reloads when empty~ or maybe energy returns over time when not being fired – maybe even a mix of both
 	- If turret is not being fired it regains charge, however if player presses reload the battery of both turrets gets changed – full ammo
 	- If one turret runs out either both automatically get new batteries or maybe only the empty one will
  - [x] Holographic display above turrets show ammo count/energy remaining
@@ -41,7 +41,7 @@
 	- Possibly give asteroid an angle variable so they don’t all fly straight
  - [ ] Asteroid damages ship hull integrity on collision
 	- Asteroids explode either on contact with ship – causing damage to it (if various asteroid sizes, damage will depend on size)
-	- Or asteroids explode when health reaches 0
+	- ~Asteroids explode when health reaches 0~
  - [ ] Starry background moves to show player momentum
 	- Skybox maybe just scrolls behind player if that’s possible – maybe alter speed when ship gains momentum or under other circumstances – perhaps as players survive the ship speeds up and score begins to increase exponentially
  - [ ] Player flies towards effect being made by sound input

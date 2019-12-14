@@ -25,6 +25,7 @@ public class Gun : MonoBehaviour
     {
         shootScript = GetComponentInParent<turretsFire>();
         currentAmmo = fullAmmo;
+        damage = 1;
 
         animator = gameObject.GetComponent<Animator>();
         gunShot = gameObject.GetComponent<AudioSource>();
