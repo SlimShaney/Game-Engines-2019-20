@@ -21,6 +21,14 @@ public class Health : MonoBehaviour
         }
     }
 
+    /*private void OnCollisionEnter(Collision other)
+    {
+        if (other.CompareTag == "Player")
+        {
+            Debug.Log("Player Hit");
+        }
+    }*/
+
     public void TakeDamage(float damage)
     {
         currentHealth = currentHealth - damage;

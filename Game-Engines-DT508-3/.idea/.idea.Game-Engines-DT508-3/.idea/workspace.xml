@@ -134,7 +134,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/EnemySpawn.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-315">
@@ -147,6 +147,24 @@
                 <marker date="1575380538870" expanded="true" signature="957:1208" ph="{...}" />
                 <marker date="1575380538870" expanded="true" signature="1084:1160" ph="{...}" />
                 <marker date="1575380538870" expanded="true" signature="1238:1530" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Health.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding>
+                <marker date="1576340521955" expanded="false" signature="6:78" ph="..." />
+                <marker date="1576340521955" expanded="true" signature="115:695" ph="{...}" />
+                <marker date="1576340521955" expanded="true" signature="195:242" ph="{...}" />
+                <marker date="1576340521955" expanded="true" signature="261:424" ph="{...}" />
+                <marker date="1576340521955" expanded="true" signature="299:418" ph="{...}" />
+                <marker date="1576340521955" expanded="true" signature="430:591" ph="/* private void OnCollisionEnter(Collision other) ... */" />
+                <marker date="1576340521955" expanded="true" signature="633:693" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -183,6 +201,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/RaycastShoot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs" root0="FORCE_HIGHLIGHTING" />
@@ -203,6 +222,7 @@
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs" />
         <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/movieFPSScripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -211,7 +231,7 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="232" />
     <option name="y" value="90" />
     <option name="width" value="1145" />
@@ -270,12 +290,12 @@
       <workItem from="1571683675604" duration="1295000" />
       <workItem from="1575043596941" duration="2530000" />
       <workItem from="1575388701603" duration="6491000" />
-      <workItem from="1576329372730" duration="1683000" />
+      <workItem from="1576329372730" duration="3720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11999000" />
+    <option name="totallyTimeSpent" value="14036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,8 +307,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="72" width="916" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="186" y="72" width="916" height="744" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -501,6 +520,22 @@
             <marker date="1575380538870" expanded="true" signature="957:1208" ph="{...}" />
             <marker date="1575380538870" expanded="true" signature="1084:1160" ph="{...}" />
             <marker date="1575380538870" expanded="true" signature="1238:1530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <marker date="1576340521955" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576340521955" expanded="true" signature="115:695" ph="{...}" />
+            <marker date="1576340521955" expanded="true" signature="195:242" ph="{...}" />
+            <marker date="1576340521955" expanded="true" signature="261:424" ph="{...}" />
+            <marker date="1576340521955" expanded="true" signature="299:418" ph="{...}" />
+            <marker date="1576340521955" expanded="true" signature="430:591" ph="/* private void OnCollisionEnter(Collision other) ... */" />
+            <marker date="1576340521955" expanded="true" signature="633:693" ph="{...}" />
           </folding>
         </state>
       </provider>
