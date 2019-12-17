@@ -8,13 +8,11 @@ public class audioScript : MonoBehaviour
     private AudioSource audioSource;
     public static float[] samples = new float[512];
     
-    // Start is called before the first frame update
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         GetSpectrumAudioSource();
