@@ -97,6 +97,7 @@ public class turretsFire : MonoBehaviour
         if (Input.GetButtonDown("Reload") && leftTurretGunScript.currentAmmo < leftTurretGunScript.fullAmmo)
         {
             StartCoroutine(leftTurretGunScript.Reload());
+            StartCoroutine(rightTurretGunScript.Reload());
             return;
         }
     }
