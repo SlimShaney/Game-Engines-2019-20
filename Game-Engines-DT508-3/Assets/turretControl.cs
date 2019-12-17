@@ -22,7 +22,7 @@ public class turretControl : MonoBehaviour
     
     void Update()
     {
-        //targetPosition = target.transform;
+        targetPosition = targetPosition.transform;
         transform.rotation = Quaternion.Slerp(currentPosition.rotation, targetPosition.rotation, timeCount);
         timeCount = timeCount + Time.deltaTime;
     }
