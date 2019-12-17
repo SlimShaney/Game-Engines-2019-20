@@ -17,6 +17,7 @@
           </e>
         </e>
         <e p="audioScript.cs" t="Include" />
+        <e p="instantiateAudioSpectrum.cs" t="Include" />
         <e p="movieFPSScripts" t="Include">
           <e p="Enemy.cs" t="Include" />
           <e p="Gun.cs" t="Include" />

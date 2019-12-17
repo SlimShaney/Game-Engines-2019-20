@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/turretsFire.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/audioScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/audioScript.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +28,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/audioScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+            <state relative-caret-position="90">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
-                <marker date="1576595935162" expanded="false" signature="6:78" ph="..." />
-                <marker date="1576595935162" expanded="true" signature="160:604" ph="{...}" />
-                <marker date="1576595935162" expanded="true" signature="319:382" ph="{...}" />
-                <marker date="1576595935162" expanded="true" signature="440:486" ph="{...}" />
-                <marker date="1576595935162" expanded="true" signature="521:602" ph="{...}" />
+                <marker date="1576596157668" expanded="false" signature="6:78" ph="..." />
+                <marker date="1576596157668" expanded="true" signature="160:611" ph="{...}" />
+                <marker date="1576596157668" expanded="true" signature="326:389" ph="{...}" />
+                <marker date="1576596157668" expanded="true" signature="447:493" ph="{...}" />
+                <marker date="1576596157668" expanded="true" signature="528:609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/instantiateAudioSpectrum.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="32" column="112" selection-start-line="32" selection-start-column="112" selection-end-line="32" selection-end-column="112" />
+              <folding>
+                <marker date="1576597237834" expanded="false" signature="6:78" ph="..." />
+                <marker date="1576597237834" expanded="true" signature="133:1190" ph="{...}" />
+                <marker date="1576597237834" expanded="true" signature="331:879" ph="{...}" />
+                <marker date="1576597237834" expanded="true" signature="375:873" ph="{...}" />
+                <marker date="1576597237834" expanded="true" signature="937:1188" ph="{...}" />
+                <marker date="1576597237834" expanded="true" signature="981:1182" ph="{...}" />
+                <marker date="1576597237834" expanded="true" signature="1029:1172" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -98,16 +113,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/EnemySpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/RaycastShoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/instantiateAudioSpectrum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/HUD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/turretControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/EnemySpawn.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/RaycastShoot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/audioScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Old Scripts/PlayerMove.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,6 +141,7 @@
         <option value="$PROJECT_DIR$/Assets/audioVisualization.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioVisualizer.cs" />
         <option value="$PROJECT_DIR$/Assets/audioScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/instantiateAudioSpectrum.cs" />
       </list>
     </option>
   </component>
@@ -194,12 +211,12 @@
       <workItem from="1575388701603" duration="6491000" />
       <workItem from="1576329372730" duration="3720000" />
       <workItem from="1576544568240" duration="707000" />
-      <workItem from="1576545483073" duration="2769000" />
+      <workItem from="1576545483073" duration="4135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17512000" />
+    <option name="totallyTimeSpent" value="18878000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -361,14 +378,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/audioScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        <state relative-caret-position="90">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
-            <marker date="1576595935162" expanded="false" signature="6:78" ph="..." />
-            <marker date="1576595935162" expanded="true" signature="160:604" ph="{...}" />
-            <marker date="1576595935162" expanded="true" signature="319:382" ph="{...}" />
-            <marker date="1576595935162" expanded="true" signature="440:486" ph="{...}" />
-            <marker date="1576595935162" expanded="true" signature="521:602" ph="{...}" />
+            <marker date="1576596157668" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576596157668" expanded="true" signature="160:611" ph="{...}" />
+            <marker date="1576596157668" expanded="true" signature="326:389" ph="{...}" />
+            <marker date="1576596157668" expanded="true" signature="447:493" ph="{...}" />
+            <marker date="1576596157668" expanded="true" signature="528:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/instantiateAudioSpectrum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="112" selection-start-line="32" selection-start-column="112" selection-end-line="32" selection-end-column="112" />
+          <folding>
+            <marker date="1576597237834" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576597237834" expanded="true" signature="133:1190" ph="{...}" />
+            <marker date="1576597237834" expanded="true" signature="331:879" ph="{...}" />
+            <marker date="1576597237834" expanded="true" signature="375:873" ph="{...}" />
+            <marker date="1576597237834" expanded="true" signature="937:1188" ph="{...}" />
+            <marker date="1576597237834" expanded="true" signature="981:1182" ph="{...}" />
+            <marker date="1576597237834" expanded="true" signature="1029:1172" ph="{...}" />
           </folding>
         </state>
       </provider>
