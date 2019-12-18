@@ -5,23 +5,26 @@ using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
-    private Score scoreScript;
-
     public int pointValue;
     public float health;
     public float speed;
     public float damage;
     public float step;
 
-    private Score score;
-    public Health playerHealthScript; 
+    private Score scoreScript;
+    private Health playerHealthScript; 
     
     public GameObject player;
+    public GameObject spawnArea;
+
+    public AudioSource explosion;
 
     void Awake()
     {    
         player = GameObject.FindGameObjectWithTag("Player");
-        score = player.GetComponentInChildren<Score>();
+        spawnArea = GameObject.FindGameObjectWithTag("Respawn");
+        scoreScript = player.GetComponentInChildren<Score>();
+        explosion = spawnArea.GetComponent<AudioSource>();
     }
 
     void Update ()
@@ -36,7 +39,7 @@ public class Enemy : MonoBehaviour
         if (health <= 0)
         {
             Explode();
-            score.AddPoints(pointValue);
+            scoreScript.AddPoints(pointValue);
         }
     }
     public void HurtPlayer(float damageDealt)
@@ -46,6 +49,7 @@ public class Enemy : MonoBehaviour
 
     private void Explode()
     {
+        explosion.Play();
         Destroy(gameObject);
     }
 

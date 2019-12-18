@@ -389,4 +389,5 @@ MonoBehaviour:
   speed: 3
   damage: 10
   step: 0
-  playerPosition: {fileID: 0}
+  player: {fileID: 0}
+  explosion: {fileID: 0}

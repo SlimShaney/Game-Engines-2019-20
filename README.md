@@ -18,7 +18,7 @@
 
    ![](Audio-Visualiser.gif)
  
-# Features / Feature Implementation Checklist
+# Implemented Features:
  - [x] Turrets follow mouse cursor/screen centre~
 	- ~Camera to world-point so turrets know what to aim towards – maybe do so by having a canvas out in front of the ship with a reticle on it which moves around via mouse-pointer/right controller-joystick~
  - [x] Both turrets fire in tandem and reload together
