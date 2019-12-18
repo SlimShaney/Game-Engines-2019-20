@@ -16,6 +16,7 @@ public class Enemy : MonoBehaviour
     
     public GameObject player;
     public GameObject spawnArea;
+    public GameObject explosionEffect;
 
     public AudioSource explosion;
 
@@ -50,6 +51,7 @@ public class Enemy : MonoBehaviour
     private void Explode()
     {
         explosion.Play();
+        Instantiate(explosionEffect, transform.position, transform.rotation);
         Destroy(gameObject);
     }
 

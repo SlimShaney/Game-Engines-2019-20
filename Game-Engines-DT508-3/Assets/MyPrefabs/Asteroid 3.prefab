@@ -390,4 +390,7 @@ MonoBehaviour:
   damage: 10
   step: 0
   player: {fileID: 0}
+  spawnArea: {fileID: 0}
+  explosionEffect: {fileID: 1000013462590818, guid: ecdd96beb7f93494880c052dfccf9dc1,
+    type: 3}
   explosion: {fileID: 0}

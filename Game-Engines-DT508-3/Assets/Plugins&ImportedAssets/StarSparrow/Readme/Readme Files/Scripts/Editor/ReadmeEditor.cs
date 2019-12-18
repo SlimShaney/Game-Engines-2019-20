@@ -8,8 +8,8 @@ using System.Reflection;
 
 [CustomEditor(typeof(Readme))]
 [InitializeOnLoad]
-public class ReadmeEditor : Editor
-{	
+public class ReadmeEditor : Editor {
+	
 	static string kShowedReadmeSessionStateName = "ReadmeEditor.showedReadme";
 	
 	static float kSpace = 16f;
@@ -42,6 +42,7 @@ public class ReadmeEditor : Editor
 		method.Invoke(null, new object[]{Path.Combine(Application.dataPath, "TutorialInfo/Layout.wlt"), false});
 	}
 	
+	[MenuItem("Tutorial/Show Tutorial Instructions")]
 	static Readme SelectReadme() 
 	{
 		var ids = AssetDatabase.FindAssets("Readme t:Readme");

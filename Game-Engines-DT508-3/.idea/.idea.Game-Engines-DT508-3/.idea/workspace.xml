@@ -4,493 +4,18 @@
     <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Engines-DT508-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/221591__robinhood76__04970-analog-game-charge-ding.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/221591__robinhood76__04970-analog-game-charge-ding.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/large_asteroid.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/large_asteroid.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/skybox.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/skybox.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/small_asteroid.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Materials/small_asteroid.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD0.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid1_LOD2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD0.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid2_LOD2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD0.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Meshes/asteroid3_LOD2.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Prefabs/Asteroid 3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Scripts/RandomRotator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/back.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/bottom.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/front.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/front.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/left.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/right.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/Skybox/up.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/seamless_rock_texture.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Assets/Textures/seamless_rock_texture_detail.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Demo/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Pack/Demo/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dermot Kennedy - Power Over Me (Acoustic).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Dermot Kennedy - Power Over Me (Acoustic).mp3.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyPrefabs/Asteroid 3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyPrefabs/Asteroid 3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/Door.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/Door.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/GameManagement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/GameManagement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/Player.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Old Scripts/Player.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/AsteroidsLava_Red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Bomb.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Bomb.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/CloudsRed.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/FlyingInsect_Purple.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Grey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Grey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Mine Sample 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Mine Sample 2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Missile.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/Missile.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/BonusContent/TinniuqPlanet.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Black.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Black.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Cyan.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Cyan.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Orange.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Orange.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Purple.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Purple.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Yellow.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/StarSparrow Yellow.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Grey.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow Red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow White.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Materials/Unified/StarSparrow White.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/AsteroidsSample.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/AsteroidsSample.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/Clouds.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/Clouds.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing1.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing1.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing2.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing2.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing3.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing3.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing4.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/FlyingInsects3_Wing4.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/MinesSample.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/MinesSample.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/MissilesSample.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/MissilesSample.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/Planet.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/BonusContent/Planet.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowExamples1.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowExamples1.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowExamples2.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowExamples2.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowModules.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Meshes/StarSparrowModules.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Blue.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Blue.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Red.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Asteroid Lava Red.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Bomb.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Bomb.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Flying Insect.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Mine Sample 2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Missile.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Missile.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Tinniuq Planet.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/BonusContent/Tinniuq Planet.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow10.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow10.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow11.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow11.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow12.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow12.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow13.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow13.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow4.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow4.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow5.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow5.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow6.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow6.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow7.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow7.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow8.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow8.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow9.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/ExamplesModular/StarSparrow9.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Core.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Engine.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Engine.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Plasma.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Plasma.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Thruster.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Thruster.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Weapon.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Weapon.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/Modules/StarSparrow_Wing_3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow10.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow10.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow11.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow11.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow12.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow12.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow13.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow13.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow4.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow4.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow5.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow5.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow6.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow6.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow7.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow7.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow8.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow8.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow9.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Prefabs/StarSparrow9.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Icons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Icons/Help_Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Icons/Help_Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Icons/ReadMe_Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Icons/ReadMe_Icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Layout.wlt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Layout.wlt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Readme/Readme.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/BonusContent.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/BonusContent.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowExamples.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowExamples.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowExamplesModular.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowExamplesModular.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowModules.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Scenes/StarSparrowModules.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/SubstancePainter.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/SubstancePainter/StarSparrow.spp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/SubstancePainter/StarSparrow.spp.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Blue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionBlue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionBlue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionRed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_EmissionRed.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Grey.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Asteroids/AsteroidsLava_Red.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/FlyingInsect/FlyingInsect_Purple.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Blue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_EmissionBlue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_EmissionBlue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample1_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Brown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Brown.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_EmissionRed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_EmissionRed.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Mines/MineSample2_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Emission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Emission.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Grey.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Bomb_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Emission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Emission.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Grey.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/MissileBomb/Missile_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Clouds.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Clouds.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Albedo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Albedo.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/BonusContent/Planet/Tinniuq_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Mask3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Neutral.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Masks/StarSparrow_Neutral.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Black.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Blue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Cyan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Cyan.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Emission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Emission.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Green.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Orange.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Purple.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Red.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/StarSparrow_Yellow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Blue.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Emission.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Emission.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Green.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Grey.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_Red.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_White.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarSparrow/Textures/Unified/StarSparrow_White.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/DemoScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/DemoScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script/LookCamera.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Script/LookCamera.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Skybox.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Starfield Skybox/Skybox.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/crosshair-png-transparent-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/crosshair-png-transparent-9.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/heat-vision.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/heat-vision.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wow x all the good girls go to hell mashup of billie eilishpost malone.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/wow x all the good girls go to hell mashup of billie eilishpost malone.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Icons/Help_Icon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Icons/Help_Icon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Editor/ReadmeEditor.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins&amp;ImportedAssets/StarSparrow/Readme/Readme Files/Scripts/Readme.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -500,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/turretsFire.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-473">
@@ -528,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
+            <state relative-caret-position="570">
               <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
               <folding>
                 <marker date="1576647833736" expanded="false" signature="6:91" ph="..." />
@@ -574,22 +99,37 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="26" column="58" lean-forward="true" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+            <state relative-caret-position="660">
+              <caret line="53" column="77" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
               <folding>
-                <marker date="1576652614129" expanded="false" signature="6:100" ph="..." />
-                <marker date="1576652614129" expanded="true" signature="136:1591" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="455:718" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="738:892" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="934:1087" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="991:1081" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="1133:1197" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="1225:1292" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="1334:1589" ph="{...}" />
-                <marker date="1576652614129" expanded="true" signature="1389:1583" ph="{...}" />
+                <marker date="1576654537269" expanded="false" signature="6:100" ph="..." />
+                <marker date="1576654537269" expanded="true" signature="136:1708" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="494:757" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="777:931" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="973:1126" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="1030:1120" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="1172:1236" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="1264:1409" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="1451:1706" ph="{...}" />
+                <marker date="1576654537269" expanded="true" signature="1506:1700" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/sceneLoader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+              <folding>
+                <marker date="1576655788298" expanded="false" signature="6:113" ph="..." />
+                <marker date="1576655788298" expanded="true" signature="155:341" ph="{...}" />
+                <marker date="1576655788298" expanded="true" signature="188:245" ph="{...}" />
+                <marker date="1576655788298" expanded="true" signature="277:339" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -598,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding>
                 <marker date="1576651409932" expanded="false" signature="6:78" ph="..." />
@@ -614,15 +154,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="285">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
-                <marker date="1576650223886" expanded="false" signature="6:113" ph="..." />
-                <marker date="1576650223886" expanded="true" signature="150:576" ph="{...}" />
-                <marker date="1576650223886" expanded="true" signature="230:277" ph="{...}" />
-                <marker date="1576650223886" expanded="true" signature="296:472" ph="{...}" />
-                <marker date="1576650223886" expanded="true" signature="334:466" ph="{...}" />
-                <marker date="1576650223886" expanded="true" signature="514:574" ph="{...}" />
+                <marker date="1576655984713" expanded="false" signature="6:113" ph="..." />
+                <marker date="1576655984713" expanded="true" signature="150:700" ph="{...}" />
+                <marker date="1576655984713" expanded="true" signature="268:377" ph="{...}" />
+                <marker date="1576655984713" expanded="true" signature="396:596" ph="{...}" />
+                <marker date="1576655984713" expanded="true" signature="434:590" ph="{...}" />
+                <marker date="1576655984713" expanded="true" signature="638:698" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/PlayerLook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1576643735509" expanded="false" signature="6:107" ph="..." />
+                <marker date="1576643735509" expanded="true" signature="148:1573" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="475:536" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="568:630" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="657:695" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="730:1367" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="973:1099" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="1137:1263" ph="{...}" />
+                <marker date="1576643735509" expanded="true" signature="1424:1571" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -659,7 +218,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/HUD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/turretsFire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/sceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/PlayerLook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
@@ -691,9 +252,10 @@
         <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/HUD.cs" />
         <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/turretsFire.cs" />
-        <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs" />
         <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/sceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -764,12 +326,13 @@
       <workItem from="1576329372730" duration="3720000" />
       <workItem from="1576544568240" duration="707000" />
       <workItem from="1576545483073" duration="26209000" />
-      <workItem from="1576651770412" duration="894000" />
+      <workItem from="1576651770412" duration="3641000" />
+      <workItem from="1576656427620" duration="193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41846000" />
+    <option name="totallyTimeSpent" value="44786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -782,7 +345,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1422" y="53" width="1145" height="930" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -857,6 +419,21 @@
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Gun.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/movieFPSScripts/Shoot.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Old Scripts/GameManagement.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+          <folding>
+            <marker date="1576647833736" expanded="false" signature="6:91" ph="..." />
+            <marker date="1576647833736" expanded="true" signature="125:1115" ph="{...}" />
+            <marker date="1576647833736" expanded="true" signature="482:663" ph="{...}" />
+            <marker date="1576647833736" expanded="true" signature="683:750" ph="{...}" />
+            <marker date="1576647833736" expanded="true" signature="775:811" ph="{...}" />
+            <marker date="1576647833736" expanded="true" signature="844:1113" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/EnemySpawn.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -885,17 +462,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="660">
+          <caret line="53" column="77" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
           <folding>
-            <marker date="1576650223886" expanded="false" signature="6:113" ph="..." />
-            <marker date="1576650223886" expanded="true" signature="150:576" ph="{...}" />
-            <marker date="1576650223886" expanded="true" signature="230:277" ph="{...}" />
-            <marker date="1576650223886" expanded="true" signature="296:472" ph="{...}" />
-            <marker date="1576650223886" expanded="true" signature="334:466" ph="{...}" />
-            <marker date="1576650223886" expanded="true" signature="514:574" ph="{...}" />
+            <marker date="1576654537269" expanded="false" signature="6:100" ph="..." />
+            <marker date="1576654537269" expanded="true" signature="136:1708" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="494:757" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="777:931" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="973:1126" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="1030:1120" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="1172:1236" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="1264:1409" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="1451:1706" ph="{...}" />
+            <marker date="1576654537269" expanded="true" signature="1506:1700" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1576651409932" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576651409932" expanded="true" signature="122:637" ph="{...}" />
+            <marker date="1576651409932" expanded="true" signature="129:193" ph="/* public GameObject target; ... */" />
+            <marker date="1576651409932" expanded="true" signature="328:391" ph="{...}" />
+            <marker date="1576651409932" expanded="true" signature="415:635" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -913,31 +508,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/NotCurrentlyInUse/turretControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/PlayerLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state>
           <folding>
-            <marker date="1576651409932" expanded="false" signature="6:78" ph="..." />
-            <marker date="1576651409932" expanded="true" signature="122:637" ph="{...}" />
-            <marker date="1576651409932" expanded="true" signature="129:193" ph="/* public GameObject target; ... */" />
-            <marker date="1576651409932" expanded="true" signature="328:391" ph="{...}" />
-            <marker date="1576651409932" expanded="true" signature="415:635" ph="{...}" />
+            <marker date="1576643735509" expanded="false" signature="6:107" ph="..." />
+            <marker date="1576643735509" expanded="true" signature="148:1573" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="475:536" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="568:630" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="657:695" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="730:1367" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="973:1099" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="1137:1263" ph="{...}" />
+            <marker date="1576643735509" expanded="true" signature="1424:1571" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Health.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        <state relative-caret-position="285">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
-            <marker date="1576647833736" expanded="false" signature="6:91" ph="..." />
-            <marker date="1576647833736" expanded="true" signature="125:1115" ph="{...}" />
-            <marker date="1576647833736" expanded="true" signature="482:663" ph="{...}" />
-            <marker date="1576647833736" expanded="true" signature="683:750" ph="{...}" />
-            <marker date="1576647833736" expanded="true" signature="775:811" ph="{...}" />
-            <marker date="1576647833736" expanded="true" signature="844:1113" ph="{...}" />
+            <marker date="1576655984713" expanded="false" signature="6:113" ph="..." />
+            <marker date="1576655984713" expanded="true" signature="150:700" ph="{...}" />
+            <marker date="1576655984713" expanded="true" signature="268:377" ph="{...}" />
+            <marker date="1576655984713" expanded="true" signature="396:596" ph="{...}" />
+            <marker date="1576655984713" expanded="true" signature="434:590" ph="{...}" />
+            <marker date="1576655984713" expanded="true" signature="638:698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/sceneLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <marker date="1576655788298" expanded="false" signature="6:113" ph="..." />
+            <marker date="1576655788298" expanded="true" signature="155:341" ph="{...}" />
+            <marker date="1576655788298" expanded="true" signature="188:245" ph="{...}" />
+            <marker date="1576655788298" expanded="true" signature="277:339" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -961,25 +572,6 @@
             <marker date="1576649577765" expanded="true" signature="2706:3104" ph="{...}" />
             <marker date="1576649577765" expanded="true" signature="2895:3090" ph="{...}" />
             <marker date="1576649577765" expanded="true" signature="3315:3472" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/Enemy.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="26" column="58" lean-forward="true" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
-          <folding>
-            <marker date="1576652614129" expanded="false" signature="6:100" ph="..." />
-            <marker date="1576652614129" expanded="true" signature="136:1591" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="455:718" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="738:892" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="934:1087" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="991:1081" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="1133:1197" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="1225:1292" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="1334:1589" ph="{...}" />
-            <marker date="1576652614129" expanded="true" signature="1389:1583" ph="{...}" />
           </folding>
         </state>
       </provider>
