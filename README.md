@@ -5,14 +5,23 @@
 
    [![Alt text](https://img.youtube.com/vi/KqSrlrDX9JU/0.jpg)](https://www.youtube.com/watch?v=KqSrlrDX9JU)
 
-# Implemented Features:
+ - What I'm Happiest With / What I'm Most Proud Of:
+	- I'm most proud of the fact that all of the code implemented in my project were created by me from scratch. 
+	Generally when working on small prototypes such as this one, I use Unity's in-built character controllers, 
+	however for this project I created my own camera control and movement scripts (though I didn't use the movement script in the end).
+	- Another feature I'm very happy with is the turret system I created for the ship. Both turrets are setup independently of one another, with most of their
+	variables being set to public so they can be declared within the inspector instead of being hard-coded. The 'holographic' displays I created to display
+	the current ammo of each weapon also suits the project very well thematically.
+
+# Implemented Features (What I Did):
  - [x] Turrets follow mouse cursor/screen centre
 	- Camera to world-point so turrets know what to aim towards
  	- A canvas out in front of the ship with a reticle on it displays where the turrets will fire
 
  - [x] Both turrets fire in tandem and reload together
 	- Which turret that fires depends on which mouse button is pressed
-	- Each turret reloads when empty or both reload when players press R (**While either turret is reloading players cannot shoot, this adds a tactical element to gameplay of when players should choose to reload**)
+	- Each turret reloads when empty or both reload when players press R (**While either turret is reloading players cannot shoot, 
+	this adds a tactical element to gameplay of when players should choose to reload**)
 	- If turret is not being fired it regains charge, however if player presses reload the battery of both turrets gets changed – full ammo
 
  - [x] Holographic display above turrets show ammo count/energy remaining (**This was simple to implement but gave an incredibly satisfying result in-game**)
@@ -48,14 +57,17 @@
 
  - [ ] Player flies towards effect being made by sound input (**I did create an Audio-Visualizer Feature, howver it remains around the player rather than a target for them to fly towards**)
 	- Blackhole-like target in the centre of screen that player is constantly flying toward
-	- Blackhole pulses/changes shape/colour based on music being input either via audio (**Successfully had the array change with the audio spectrum, I think a changing colour scheme would add nicely to this in future**)
+	- Blackhole pulses/changes shape/colour based on music being input either via audio (**Successfully had the array change with the audio spectrum, 
+	I think a changing colour scheme would add nicely to this in future**)
 
- - [x] Player can move up/down/left/right to avoid danger (**This was functional but I decided to leave it out of the current build, I felt at the stage the project is currently, removing this feature allowed it to feel more polished**)
+ - [x] Player can move up/down/left/right to avoid danger (**This was functional but I decided to leave it out of the current build, 
+	I felt at the stage the project is currently, removing this feature allowed it to feel more polished**)
 	- Input axis determines ship moving in game world-space, this will need a maximum distance in any direction
 
  - [ ] Randomly generate asteroid shape (**I left this out, instead using an asteroid prefab for this prototype**)
 
- - [ ] Powerups – infinite ammo for short time, invincibility, regain health, bonus points (**This is a feature I would love to implement in future, programming them would be quite straightforward, unfortunately other tasks took precedent for this build**)
+ - [ ] Powerups – infinite ammo for short time, invincibility, regain health, bonus points (**This is a feature I would love to implement in future, 
+	programming them would be quite straightforward, unfortunately other tasks took precedent for this build**)
 	- Powerups will need to be flown into or perhaps shot to collect them – some may take more shots than others depending on their value to gameplay
 
  - [ ] Controller support – stretch goal (**As stated, once there are more implemented features this would be a nice touch to add to the player experience**)
