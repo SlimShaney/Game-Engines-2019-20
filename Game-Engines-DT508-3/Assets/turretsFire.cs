@@ -9,7 +9,7 @@ public class turretsFire : MonoBehaviour
 
     private Gun leftTurretGunScript;
     private Gun rightTurretGunScript;
-    private Health enemyToDamage;
+    private Enemy enemyToDamage;
     
     private float nextFire;
     public bool isReloading = false;
@@ -59,7 +59,7 @@ public class turretsFire : MonoBehaviour
                 Debug.Log(hit.transform.name);
                  if (hit.transform.gameObject.CompareTag("Enemy"))
                  {
-                     enemyToDamage = hit.transform.gameObject.GetComponent<Health>();
+                     enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
                      enemyToDamage.TakeDamage(leftTurretGunScript.damage);
                      //Destroy(hit.transform.gameObject);
                  }
@@ -87,7 +87,7 @@ public class turretsFire : MonoBehaviour
                 Debug.Log(hit.transform.name);
                 if (hit.transform.gameObject.CompareTag("Enemy"))
                 {
-                    enemyToDamage = hit.transform.gameObject.GetComponent<Health>();
+                    enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
                     enemyToDamage.TakeDamage(rightTurretGunScript.damage);
                     //Destroy(hit.transform.gameObject);
                 }

@@ -594,6 +594,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 30
+  minY: -10
+  maxY: 10
+  clampedY: 0
+  currentPosition: {x: 0, y: 0, z: 0}
 --- !u!114 &612386023
 MonoBehaviour:
   m_ObjectHideFlags: 0

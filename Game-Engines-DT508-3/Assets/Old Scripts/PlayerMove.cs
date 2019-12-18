@@ -14,8 +14,9 @@ public class PlayerMove : MonoBehaviour
 
     private void PlayerMovement()
     {
+        
         transform.Translate(Vector3.up * Time.deltaTime * Input.GetAxis("Vertical")* movementSpeed);
-        transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal")* movementSpeed);      
+        //transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal")* movementSpeed);      
     }
 
 }

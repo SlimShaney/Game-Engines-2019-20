@@ -19,6 +19,5 @@ public class Score : MonoBehaviour
     void Update()
     {
         currentScore.text = "SCORE: " + score.ToString();
-        currentRound.text = "ROUND: " + EnemySpawn.round.ToString();
     }
 }

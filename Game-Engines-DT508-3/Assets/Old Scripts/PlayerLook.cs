@@ -40,17 +40,17 @@ public class PlayerLook : MonoBehaviour
 
         xAxisClamp += mouseY;
 
-        if(xAxisClamp > 45.0f)
+        if(xAxisClamp > 30.0f)
         {
-            xAxisClamp = 45.0f;
+            xAxisClamp = 30.0f;
             mouseY = 0.0f;
-            ClampXAxisRotationToValue(315.0f);
+            ClampXAxisRotationToValue(330.0f);
         }
-        else if (xAxisClamp < -45.0f)
+        else if (xAxisClamp < -30.0f)
         {
-            xAxisClamp = -45.0f;
+            xAxisClamp = -30.0f;
             mouseY = 0.0f;
-            ClampXAxisRotationToValue(45.0f);
+            ClampXAxisRotationToValue(30.0f);
         }
 
         transform.Rotate(Vector3.left * mouseY);

@@ -27,14 +27,12 @@
         </e>
         <e p="Old Scripts" t="Include">
           <e p="Door.cs" t="Include" />
-          <e p="EnemyHealth.cs" t="Include" />
           <e p="EnemyMove.cs" t="Include" />
           <e p="EnemySpawn.cs" t="Include" />
           <e p="GameManagement.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="PlayerLook.cs" t="Include" />
           <e p="PlayerMove.cs" t="Include" />
-          <e p="RaycastShoot.cs" t="Include" />
           <e p="Score.cs" t="Include" />
         </e>
         <e p="Starfield Skybox" t="Include">

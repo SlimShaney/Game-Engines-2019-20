@@ -5,35 +5,24 @@ using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
-    UnityEngine.AI.NavMeshAgent nav;
-    Transform player;
-    Animator anim;
-
     private Score scoreScript;
 
-    public int pointValue = 30;
+    public int pointValue = 3;
     public float health = 5f;
-    public bool die = false;
-
-    //public float playerHealth = 100;
-    float EnemiesKilled;
-
-    private WaitForSeconds Destroy = new WaitForSeconds(2f);
-    private WaitForSeconds Attack = new WaitForSeconds(2.1f);
-
-    private float damageRate = 3.0f;
-    private float nextDamage;
+    public float speed = 3f;
+    public float step;
+    
+    public Transform playerPosition;
 
     void Awake()
     {    
-        nav = GetComponent<UnityEngine.AI.NavMeshAgent>();
-        player = GameObject.FindGameObjectWithTag("Player").transform;
-        anim = gameObject.GetComponent<Animator>();
+        playerPosition = GameObject.FindGameObjectWithTag("Player").transform;       
     }
 
-    void Update () 
+    void Update ()
     {
-        nav.SetDestination(player.transform.position);
+        step = speed * Time.deltaTime;
+        transform.position = Vector3.MoveTowards(transform.position, playerPosition.position, step);
     }
 
     public void TakeDamage(float amount)
@@ -42,44 +31,27 @@ public class Enemy : MonoBehaviour
         health -= amount;
         if (health <= 0)
         {
-            Die();
+            Explode();
             GameManagement.AddPoints(pointValue);
         }
     }
-
-    public void Die()
-    {
-        EnemySpawn.enemiesKilled++;
-        Debug.Log(EnemySpawn.enemiesKilled);        
-        StartCoroutine(DieAnimation());               
-    }
-
     public void HurtPlayer()
     {
-        if (Time.time > nextDamage)
-        {
-            //PlayerHealth.playerHealth -= 20;
-            nextDamage = Time.time + damageRate;
-        }
+        return;
     }
 
-    private IEnumerator DieAnimation()
+    private void Explode()
     {
-        anim.SetBool("Die", true);
-        gameObject.GetComponent<NavMeshAgent>().isStopped = true;                
-        yield return Destroy;
         Destroy(gameObject);
     }
 
-    IEnumerator OnCollisionEnter(Collision col)
+    void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.CompareTag("MainCamera"))
+        if (col.gameObject.CompareTag("Player"))
         {            
             Debug.Log("DAMAGE");   
-            anim.SetTrigger("Attacking");
             HurtPlayer();
-            yield return Attack;
-            Die();
+            Explode();
         }
     }
 }

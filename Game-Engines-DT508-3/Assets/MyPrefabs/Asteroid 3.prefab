@@ -307,7 +307,7 @@ GameObject:
   - component: {fileID: 4808362585811186350}
   - component: {fileID: 4808362585809344684}
   - component: {fileID: 4808362585611669914}
-  - component: {fileID: 4808362585611669913}
+  - component: {fileID: -143239869544403853}
   m_Layer: 0
   m_Name: Asteroid 3
   m_TagString: Enemy
@@ -372,7 +372,7 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1.6360886
   m_Center: {x: -0.30010748, y: -0.17881322, z: -0.11330199}
---- !u!114 &4808362585611669913
+--- !u!114 &-143239869544403853
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -381,8 +381,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 4808362585816487998}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1efa5731bbc825b42814580aed40d936, type: 3}
+  m_Script: {fileID: 11500000, guid: c04271979f5f22a459710b3a5e217bae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 3
-  currentHealth: 0
+  pointValue: 3
+  health: 2
+  speed: 3
+  step: 0
+  playerPosition: {fileID: 0}
