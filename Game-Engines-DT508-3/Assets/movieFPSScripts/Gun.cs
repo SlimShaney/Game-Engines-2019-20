@@ -14,9 +14,8 @@ public class Gun : MonoBehaviour
     public float reloadTime;
     
     public Transform barrelTip;
-
-    private Animator animator;
     private AudioSource gunShot;
+    public AudioSource gunReload;
     private turretsFire shootScript;
 
     public TMP_Text ammoCount;
@@ -26,8 +25,6 @@ public class Gun : MonoBehaviour
         shootScript = GetComponentInParent<turretsFire>();
         currentAmmo = fullAmmo;
         damage = 1;
-
-        animator = gameObject.GetComponent<Animator>();
         gunShot = gameObject.GetComponent<AudioSource>();
     }
 
@@ -39,20 +36,16 @@ public class Gun : MonoBehaviour
 
     public void Shoot()
     {
-        //gunShot.Play();
-        //animator.SetTrigger("Shoot");
+        gunShot.Play();
     }
 
     public IEnumerator Reload()
     {
         shootScript.isReloading = true;
-        Debug.Log("Reload");
-        //animator.SetTrigger("Reload");
-        //gunReload.Play();
+        //Debug.Log("Reload");
+        gunReload.Play();
         yield return new WaitForSeconds(reloadTime);
-        //anim.SetBool("Reloading", false);
-        //yield return new WaitForSeconds(reloadTime);
-        Debug.Log("Reloaded");
+        //Debug.Log("Reloaded");
 
         currentAmmo = fullAmmo;
         shootScript.isReloading = false;

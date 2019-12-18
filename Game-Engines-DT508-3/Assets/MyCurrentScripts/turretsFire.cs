@@ -32,11 +32,6 @@ public class turretsFire : MonoBehaviour
         {
             return;
         }
-
-        if (Input.GetButtonDown("Switch"))
-        {
-            
-        }
         
         if (Input.GetButton("Fire1") && Time.time > nextFire)
         {
@@ -56,12 +51,11 @@ public class turretsFire : MonoBehaviour
             if (Physics.Raycast(rayOrigin, playerCamera.transform.forward, out hit, leftTurretGunScript.range))
             {
                 bulletTrajectory.SetPosition(1, hit.point);
-                Debug.Log(hit.transform.name);
+                //Debug.Log(hit.transform.name);
                  if (hit.transform.gameObject.CompareTag("Enemy"))
                  {
                      enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
                      enemyToDamage.TakeDamage(leftTurretGunScript.damage);
-                     //Destroy(hit.transform.gameObject);
                  }
             }
         }
@@ -84,17 +78,17 @@ public class turretsFire : MonoBehaviour
             if (Physics.Raycast(rayOrigin, playerCamera.transform.forward, out hit, rightTurretGunScript.range))
             {
                 bulletTrajectory.SetPosition(1, hit.point);
-                Debug.Log(hit.transform.name);
+                //Debug.Log(hit.transform.name);
                 if (hit.transform.gameObject.CompareTag("Enemy"))
                 {
                     enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
                     enemyToDamage.TakeDamage(rightTurretGunScript.damage);
-                    //Destroy(hit.transform.gameObject);
                 }
             }
         }
         
-        if (Input.GetButtonDown("Reload") && leftTurretGunScript.currentAmmo < leftTurretGunScript.fullAmmo)
+        if (Input.GetButtonDown("Reload") && (leftTurretGunScript.currentAmmo < leftTurretGunScript.fullAmmo 
+            || rightTurretGunScript.currentAmmo < rightTurretGunScript.fullAmmo))
         {
             StartCoroutine(leftTurretGunScript.Reload());
             StartCoroutine(rightTurretGunScript.Reload());
