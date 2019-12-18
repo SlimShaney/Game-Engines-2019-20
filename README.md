@@ -72,5 +72,5 @@
  - [ ] Powerups – infinite ammo for short time, invincibility, regain health, bonus points (**This is a feature I would love to implement in future, programming them would be quite straightforward, unfortunately other tasks took precedent for this build**)
 	- Powerups will need to be flown into or perhaps shot to collect them – some may take more shots than others depending on their value to gameplay
 
- - [ ] Controller support – stretch goal *As stated, once there are more implemented features this would be a nice touch to add to the player experience**
+ - [ ] Controller support – stretch goal (**As stated, once there are more implemented features this would be a nice touch to add to the player experience**)
 	- Should be a simple matter of adding controller key-binds as the alt input of all other controls
