@@ -5,23 +5,6 @@
 
    [![Alt text](https://img.youtube.com/vi/KqSrlrDX9JU/0.jpg)](https://www.youtube.com/watch?v=KqSrlrDX9JU)
 
-# Project Proposal / Original Concept
- - An **interactive** Audio-Visualiser **game**
- - Players will take control of a **starship/turret** in the bottom centre of the screen 
-   (somewhere between the * *Dead Space* * & * *Star Fox* * gameplay below)
-
-   ![](dead-space-turret.gif)
-   ![](Star-Fox.gif)
-
- - **Asteroids** will be **procedurally created** in the path of the player and they will need to destroy them to survive
- - The obstacles which arise will be **randomly generated** (i.e. things will not spawn in the same place/order on consecutive playthroughs)
- - Asteroids the player destroys and power-ups they collect will afford them **extra points**
- - Though there will be a score-system implemented, the **main goal** of this project will be **to display impressive visuals** to the accompanying music track
- - Whatever **audio** is being played in the background **will affect the visual space** on-screen
-   (similar to the visualiser below)
-
-   ![](Audio-Visualiser.gif)
- 
 # Implemented Features:
  - [x] Turrets follow mouse cursor/screen centre
 	- Camera to world-point so turrets know what to aim towards
@@ -58,7 +41,6 @@
 	- Turrets firing & reloading
 	- Asteroid blowing up
 
-
 # Cut / Future Features:
 
  - [ ] Starry background moves to show player momentum (**Left out due to lack of time**)
@@ -78,3 +60,21 @@
 
  - [ ] Controller support – stretch goal (**As stated, once there are more implemented features this would be a nice touch to add to the player experience**)
 	- Should be a simple matter of adding controller key-binds as the alt input of all other controls
+
+# Project Proposal / Original Concept
+ - An **interactive** Audio-Visualiser **game**
+ - Players will take control of a **starship/turret** in the bottom centre of the screen 
+   (somewhere between the * *Dead Space* * & * *Star Fox* * gameplay below)
+
+   ![](dead-space-turret.gif)
+   ![](Star-Fox.gif)
+
+ - **Asteroids** will be **procedurally created** in the path of the player and they will need to destroy them to survive
+ - The obstacles which arise will be **randomly generated** (i.e. things will not spawn in the same place/order on consecutive playthroughs)
+ - Asteroids the player destroys and power-ups they collect will afford them **extra points**
+ - Though there will be a score-system implemented, the **main goal** of this project will be **to display impressive visuals** to the accompanying music track
+ - Whatever **audio** is being played in the background **will affect the visual space** on-screen
+   (similar to the visualiser below)
+
+   ![](Audio-Visualiser.gif)
+ 
