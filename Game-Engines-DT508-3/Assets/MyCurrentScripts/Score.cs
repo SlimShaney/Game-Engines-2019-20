@@ -1,23 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class Score : MonoBehaviour
-{
-    
+{    
     public static float score;
-
-    [SerializeField] public Text currentScore;
-    public Text currentRound;
+    public float currentScore;
     
     void Start()
     {
         score = 0;        
     }
 
-    void Update()
+    private void Update()
     {
-        currentScore.text = "SCORE: " + score.ToString();
+        currentScore = score;
+    }
+
+    public void AddPoints(float points)
+    {
+        score += points;
     }
 }

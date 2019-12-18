@@ -7,37 +7,41 @@ public class Enemy : MonoBehaviour
 {
     private Score scoreScript;
 
-    public int pointValue = 3;
-    public float health = 5f;
-    public float speed = 3f;
+    public int pointValue;
+    public float health;
+    public float speed;
+    public float damage;
     public float step;
+
+    private Score score;
+    public Health playerHealthScript; 
     
-    public Transform playerPosition;
+    public GameObject player;
 
     void Awake()
     {    
-        playerPosition = GameObject.FindGameObjectWithTag("Player").transform;       
+        player = GameObject.FindGameObjectWithTag("Player");
+        score = player.GetComponentInChildren<Score>();
     }
 
     void Update ()
     {
         step = speed * Time.deltaTime;
-        transform.position = Vector3.MoveTowards(transform.position, playerPosition.position, step);
+        transform.position = Vector3.MoveTowards(transform.position, player.transform.position, step);
     }
 
     public void TakeDamage(float amount)
     {
-
         health -= amount;
         if (health <= 0)
         {
             Explode();
-            GameManagement.AddPoints(pointValue);
+            score.AddPoints(pointValue);
         }
     }
-    public void HurtPlayer()
+    public void HurtPlayer(float damageDealt)
     {
-        return;
+        playerHealthScript.TakeDamage(damageDealt);
     }
 
     private void Explode()
@@ -49,8 +53,9 @@ public class Enemy : MonoBehaviour
     {
         if (col.gameObject.CompareTag("Player"))
         {            
-            Debug.Log("DAMAGE");   
-            HurtPlayer();
+            //Debug.Log("DAMAGE");
+            playerHealthScript = col.gameObject.GetComponent<Health>();
+            HurtPlayer(damage);
             Explode();
         }
     }

@@ -9,6 +9,7 @@ public class turretsFire : MonoBehaviour
 
     private Gun leftTurretGunScript;
     private Gun rightTurretGunScript;
+    
     private Enemy enemyToDamage;
     
     private float nextFire;

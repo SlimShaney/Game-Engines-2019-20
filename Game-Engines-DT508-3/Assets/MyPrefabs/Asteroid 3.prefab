@@ -387,5 +387,6 @@ MonoBehaviour:
   pointValue: 3
   health: 2
   speed: 3
+  damage: 10
   step: 0
   playerPosition: {fileID: 0}

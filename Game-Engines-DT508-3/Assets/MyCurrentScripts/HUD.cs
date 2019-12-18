@@ -5,23 +5,21 @@ using UnityEngine;
 
 public class HUD : MonoBehaviour
 {
-    //public TMP_Text ammoCount;
     public TMP_Text currentHealth;
+    public TMP_Text currentScore;
     
-    //private Gun gunDetails;
     private Health health;
+    private Score score;
     
     void Start()
     {
-        //gunDetails = GetComponentInChildren<Gun>();
         health = GetComponent<Health>();
+        score = GetComponentInChildren<Score>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        //gunDetails = GetComponentInChildren<Gun>();
-        //ammoCount.text = gunDetails.currentAmmo + "/" + gunDetails.fullAmmo;
         currentHealth.text = "Hull Integrity: " + health.currentHealth + "%";
+        currentScore.text = "Total Score: " + score.currentScore;
     }
 }
