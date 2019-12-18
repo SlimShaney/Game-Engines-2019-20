@@ -3,7 +3,7 @@
 
 # Video of Current Project Build
 
-   [![YouTube](http://img.youtu.be/KqSrlrDX9JU/0.jpg)](https://youtu.be/KqSrlrDX9JU)
+   [![YouTube](http://img.youtube.com/KqSrlrDX9JU/0.jpg)](https://youtu.be/KqSrlrDX9JU)
 
 # Project Proposal / Original Concept
  - An **interactive** Audio-Visualiser **game**
