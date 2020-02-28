@@ -6,7 +6,7 @@
  - Building upon the previous work done for this repository for Semester 1 I would also like to implement the option for players to choose any ship within the scene and allow them to operate it themselves.
 
 <details>
-<summary># Original Game Engines Semester 1 Concept & Implementations</summary>
+# <summary>Original Game Engines Semester 1 Concept & Implementations</summary>
 
 # Video of Current Project Build
 
