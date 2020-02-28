@@ -8,6 +8,10 @@
    ![](star-trek-fleet.gif) | ![](small-ships-v-big-ship.gif)
    ![](star-sparrow-reference-img.jpg) | ![](space-delorean-pic.jpg)
 
+<p float="left">
+  <img src="/star-sparrow-reference-img.jpg" width="100" />
+</p>
+
 <details>
 <summary>Original Game Engines Semester 1 Concept & Implementations</summary>
 
