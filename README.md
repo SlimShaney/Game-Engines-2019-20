@@ -7,7 +7,7 @@
 
 <p float="left">
   <img src="/star-trek-fleet.gif" width="400" />
-  <img src="/small-ships-v-big-ship.gif" width="400" height="200" />
+  <img src="/small-ships-v-big-ship.gif" width="400" height="300" />
   <img src="/star-sparrow-reference-img.jpg" width="400" />
   <img src="/space-delorean-pic.jpg" width="400" />
 </p>
