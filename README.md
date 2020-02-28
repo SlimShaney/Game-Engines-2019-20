@@ -1,8 +1,8 @@
-# Game-Engines-2019-20
+# Game-Engines-Semester-2
  - Repository for holding my 2019/2020 Game Engines Unity Project.
 
 <details>
-<summary>Original Game Engines 1 Concept & Implementations</summary>
+<summary>Original Game Engines Semester 1 Concept & Implementations</summary>
 
 # Video of Current Project Build
 
