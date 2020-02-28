@@ -25,6 +25,7 @@
           <e p="sceneLoader.cs" t="Include" />
           <e p="Score.cs" t="Include" />
           <e p="turretsFire.cs" t="Include" />
+          <e p="WaypointFollow.cs" t="Include" />
         </e>
         <e p="Plugins&amp;ImportedAssets" t="Include">
           <e p="Asteroids Pack" t="Include">

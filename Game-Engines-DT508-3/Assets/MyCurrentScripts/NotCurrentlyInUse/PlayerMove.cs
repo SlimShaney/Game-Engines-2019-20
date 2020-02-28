@@ -13,10 +13,19 @@ public class PlayerMove : MonoBehaviour
     }
 
     private void PlayerMovement()
-    {
+    {      
+        transform.Translate(Vector3.forward * Time.deltaTime * Input.GetAxis("Vertical") * movementSpeed);
+        transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal") * movementSpeed);
+
+        if (Input.GetButton("Move Up"))
+        {
+            transform.Translate(Vector3.up * Time.deltaTime * movementSpeed);
+        }
         
-        transform.Translate(Vector3.up * Time.deltaTime * Input.GetAxis("Vertical")* movementSpeed);
-        //transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal")* movementSpeed);      
+        if (Input.GetButton("Move Down"))
+        {
+            transform.Translate((Vector3.up * Time.deltaTime * movementSpeed) * -1);
+        }
     }
 
 }
