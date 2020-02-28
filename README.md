@@ -1,12 +1,12 @@
 # Project Proposal - Semester 2 Space Battle
  - A space-battle recreation made in Unity which plays out autonomously.
  - All spaceships and entities will be programmed to operate without player input, with camera angles/animations changing to suit the required scene.
- - Rather than copying a previously existing space battle from film/TV I am going to creat my own using models from the Star Sparrow asset pack. (**I have included generic space-battle images below to act as 
+ - Rather than copying a previously existing space battle from film/TV I am going to create my own using models from the Star Sparrow asset pack. (**I have included generic space-battle images below to act as 
  storyboards for the general aesthetic I want to capture with my own scene**).
- - Building upon the previous work done for this repository for Semester 1 I would also like to implement the option for players to choose any ship within the scene and instead operate it themselves.
+ - Building upon the previous work done for this repository for Semester 1 I would also like to implement the option for players to choose any ship within the scene and allow them to operate it themselves.
 
 <details>
-<summary>Original Game Engines Semester 1 Concept & Implementations</summary>
+<summary># Original Game Engines Semester 1 Concept & Implementations</summary>
 
 # Video of Current Project Build
 
