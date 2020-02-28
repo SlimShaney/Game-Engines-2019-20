@@ -5,11 +5,11 @@
  storyboards for the general aesthetic I want to capture with my own scene**).
  - Building upon the previous work done for this repository for Semester 1 I would also like to implement the option for players to choose any ship within the scene and allow them to operate it themselves.
 
-<p float="middle">
+<p float="left">
   <img src="/star-trek-fleet.gif" width="400" />
-  <img src="/space-delorean-pic.jpg" width="400" />
-  <img src="/star-sparrow-reference-img.jpg" width="400" />
   <img src="/small-ships-v-big-ship.gif" width="400" />
+  <img src="/star-sparrow-reference-img.jpg" width="400" />
+  <img src="/space-delorean-pic.jpg" width="400" />
 </p>
 
 <details>
