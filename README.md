@@ -12,6 +12,8 @@
   <img src="/space-delorean-pic.jpg" width="400" />
 </p>
 
+
+# Semester 1 Audio Visualizer
 <details>
 <summary>Original Game Engines Semester 1 Concept & Implementations</summary>
 
