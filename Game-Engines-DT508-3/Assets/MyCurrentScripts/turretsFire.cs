@@ -12,8 +12,9 @@ public class turretsFire : MonoBehaviour
     
     private Enemy enemyToDamage;
     
-    private float nextFire;
-    public bool isReloading = false;
+    private float leftTurretNextFire;
+    private float rightTurretNextFire;
+    //public bool isReloading = false;
     
     public GameObject[] turrets;
 
@@ -29,20 +30,21 @@ public class turretsFire : MonoBehaviour
 
     void FixedUpdate()
     {
-        if(isReloading)
-        {
-            return;
-        }
         
-        if (Input.GetButton("Fire1") && Time.time > nextFire)
+        
+        if (Input.GetButton("Fire1") && Time.time > leftTurretNextFire)
         {
+            if(leftTurretGunScript.isReloading)
+            {
+                return;
+            }
             if (leftTurretGunScript.currentAmmo <= 0)
             {
                 StartCoroutine(leftTurretGunScript.Reload());
                 return;
             }
             
-            nextFire = Time.time + leftTurretGunScript.fireRate;
+            leftTurretNextFire = Time.time + leftTurretGunScript.fireRate;
             Vector3 rayOrigin = playerCamera.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0.0f));
             RaycastHit hit;
             bulletTrajectory.SetPosition(0, leftTurretGunScript.barrelTip.position);
@@ -61,15 +63,19 @@ public class turretsFire : MonoBehaviour
             }
         }
         
-        if (Input.GetButton("Fire2") && Time.time > nextFire)
+        if (Input.GetButton("Fire2") && Time.time > rightTurretNextFire)
         {
+            if(rightTurretGunScript.isReloading)
+            {
+                return;
+            }
             if (rightTurretGunScript.currentAmmo <= 0)
             {
                 StartCoroutine(rightTurretGunScript.Reload());
                 return;
             }
             
-            nextFire = Time.time + rightTurretGunScript.fireRate;
+            rightTurretNextFire = Time.time + rightTurretGunScript.fireRate;
             Vector3 rayOrigin = playerCamera.ViewportToWorldPoint(new Vector3(0.5f, 0.5f, 0.0f));
             RaycastHit hit;
             bulletTrajectory.SetPosition(0, rightTurretGunScript.barrelTip.position);

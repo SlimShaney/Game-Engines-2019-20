@@ -16,13 +16,15 @@ public class Gun : MonoBehaviour
     public Transform barrelTip;
     private AudioSource gunShot;
     public AudioSource gunReload;
-    private turretsFire shootScript;
+    //private turretsFire shootScript;
+
+    public bool isReloading;
 
     public TMP_Text ammoCount;
     
     void Start()
     {
-        shootScript = GetComponentInParent<turretsFire>();
+        //shootScript = GetComponentInParent<turretsFire>();
         currentAmmo = fullAmmo;
         damage = 1;
         gunShot = gameObject.GetComponent<AudioSource>();
@@ -41,13 +43,13 @@ public class Gun : MonoBehaviour
 
     public IEnumerator Reload()
     {
-        shootScript.isReloading = true;
+        isReloading = true;
         //Debug.Log("Reload");
         gunReload.Play();
         yield return new WaitForSeconds(reloadTime);
         //Debug.Log("Reloaded");
 
         currentAmmo = fullAmmo;
-        shootScript.isReloading = false;
+        isReloading = false;
     }
 }
