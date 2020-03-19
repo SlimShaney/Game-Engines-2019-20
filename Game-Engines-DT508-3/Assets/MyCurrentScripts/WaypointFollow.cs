@@ -45,6 +45,6 @@ public class WaypointFollow : MonoBehaviour
 
         Debug.DrawRay(transform.position, velocity.normalized * 2, Color.green);
         Debug.DrawRay(transform.position, desiredVelocity.normalized * 2, Color.magenta);
-
+        //Debug.DrawRay(transform.position, currentTarget.position, Color.red);
     }
 }

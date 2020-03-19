@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29b6ed0-4ca9-4a0f-9ea3-6dde2de63015" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/Gun.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/WaypointFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/WaypointFollow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyCurrentScripts/turretsFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyCurrentScripts/turretsFire.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,15 +15,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/WaypointFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="610">
+              <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
               <folding>
-                <marker date="1583843941158" expanded="false" signature="6:78" ph="..." />
-                <marker date="1583843941158" expanded="true" signature="123:1423" ph="{...}" />
-                <marker date="1583843941158" expanded="true" signature="356:449" ph="{...}" />
-                <marker date="1583843941158" expanded="true" signature="476:1421" ph="{...}" />
-                <marker date="1583843941158" expanded="true" signature="576:755" ph="{...}" />
-                <marker date="1583843941158" expanded="true" signature="642:693" ph="{...}" />
+                <marker date="1583844822650" expanded="false" signature="6:78" ph="..." />
+                <marker date="1583844822650" expanded="true" signature="123:1502" ph="{...}" />
+                <marker date="1583844822650" expanded="true" signature="356:449" ph="{...}" />
+                <marker date="1583844822650" expanded="true" signature="476:1500" ph="{...}" />
+                <marker date="1583844822650" expanded="true" signature="576:755" ph="{...}" />
+                <marker date="1583844822650" expanded="true" signature="642:693" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -325,12 +323,12 @@
       <workItem from="1576651770412" duration="3641000" />
       <workItem from="1576656427620" duration="193000" />
       <workItem from="1582813175914" duration="2675000" />
-      <workItem from="1583835587543" duration="2597000" />
+      <workItem from="1583835587543" duration="3797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50058000" />
+    <option name="totallyTimeSpent" value="51258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,7 +341,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1347" y="59" width="1145" height="930" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -592,15 +589,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyCurrentScripts/WaypointFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="610">
+          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
           <folding>
-            <marker date="1583843941158" expanded="false" signature="6:78" ph="..." />
-            <marker date="1583843941158" expanded="true" signature="123:1423" ph="{...}" />
-            <marker date="1583843941158" expanded="true" signature="356:449" ph="{...}" />
-            <marker date="1583843941158" expanded="true" signature="476:1421" ph="{...}" />
-            <marker date="1583843941158" expanded="true" signature="576:755" ph="{...}" />
-            <marker date="1583843941158" expanded="true" signature="642:693" ph="{...}" />
+            <marker date="1583844822650" expanded="false" signature="6:78" ph="..." />
+            <marker date="1583844822650" expanded="true" signature="123:1502" ph="{...}" />
+            <marker date="1583844822650" expanded="true" signature="356:449" ph="{...}" />
+            <marker date="1583844822650" expanded="true" signature="476:1500" ph="{...}" />
+            <marker date="1583844822650" expanded="true" signature="576:755" ph="{...}" />
+            <marker date="1583844822650" expanded="true" signature="642:693" ph="{...}" />
           </folding>
         </state>
       </provider>
