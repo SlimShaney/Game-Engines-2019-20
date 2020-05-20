@@ -14,4 +14,12 @@ public class sceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("BasicMenuScene");
     }
+
+    public void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            LoadMenu();
+        }
+    }
 }

@@ -10,11 +10,13 @@ public class turretsFire : MonoBehaviour
     private Gun leftTurretGunScript;
     private Gun rightTurretGunScript;
     
-    private Enemy enemyToDamage;
+    private Health enemyToDamage;
     
     private float leftTurretNextFire;
     private float rightTurretNextFire;
     //public bool isReloading = false;
+
+    public GameObject defaultDirectionObject;
     
     public GameObject[] turrets;
 
@@ -38,10 +40,10 @@ public class turretsFire : MonoBehaviour
             {
                 return;
             }
-            if (leftTurretGunScript.currentAmmo <= 0)
+            if (leftTurretGunScript.currentAmmo <= 1)
             {
                 StartCoroutine(leftTurretGunScript.Reload());
-                return;
+                //return;
             }
             
             leftTurretNextFire = Time.time + leftTurretGunScript.fireRate;
@@ -55,10 +57,14 @@ public class turretsFire : MonoBehaviour
             {
                 bulletTrajectory.SetPosition(1, hit.point);
                 //Debug.Log(hit.transform.name);
-                 if (hit.transform.gameObject.CompareTag("Enemy"))
+                 if (hit.transform.gameObject.CompareTag("Player"))
                  {
-                     enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
+                     enemyToDamage = hit.transform.gameObject.GetComponent<Health>();
                      enemyToDamage.TakeDamage(leftTurretGunScript.damage);
+                 }
+                 else
+                 {
+                     //bulletTrajectory.SetPosition(1, defaultDirectionObject.transform.position);
                  }
             }
         }
@@ -69,10 +75,10 @@ public class turretsFire : MonoBehaviour
             {
                 return;
             }
-            if (rightTurretGunScript.currentAmmo <= 0)
+            if (rightTurretGunScript.currentAmmo <= 1)
             {
                 StartCoroutine(rightTurretGunScript.Reload());
-                return;
+                //return;
             }
             
             rightTurretNextFire = Time.time + rightTurretGunScript.fireRate;
@@ -84,13 +90,16 @@ public class turretsFire : MonoBehaviour
             
             if (Physics.Raycast(rayOrigin, playerCamera.transform.forward, out hit, rightTurretGunScript.range))
             {
-                bulletTrajectory.SetPosition(1, hit.point);
+                //bulletTrajectory.SetPosition(1, hit.point);
                 //Debug.Log(hit.transform.name);
-                if (hit.transform.gameObject.CompareTag("Enemy"))
+                if (hit.transform.gameObject.CompareTag("Player"))
                 {
-                    enemyToDamage = hit.transform.gameObject.GetComponent<Enemy>();
+                    bulletTrajectory.SetPosition(1, hit.point);
+                    enemyToDamage = hit.transform.gameObject.GetComponent<Health>();
                     enemyToDamage.TakeDamage(rightTurretGunScript.damage);
+                    return;
                 }
+                    //bulletTrajectory.SetPosition(1, defaultDirectionObject.transform.position);
             }
         }
         

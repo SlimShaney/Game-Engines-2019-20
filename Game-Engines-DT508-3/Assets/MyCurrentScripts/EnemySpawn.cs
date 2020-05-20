@@ -6,19 +6,28 @@ using UnityEngine.Serialization;
 public class EnemySpawn : MonoBehaviour
 {
     public Transform[] spawnPoints;
-    public GameObject[] asteroids;
+    public GameObject[] whatToSpawn;
+
+    public Mesh[] shipMeshes;
+    public Material[] shipColours;
 
     public float spawnTime;
+
+    private Score scoreScript;
     
     void Start()
     {       
         StartCoroutine(Timer());
+        scoreScript = GameObject.FindGameObjectWithTag("Game Manager").GetComponent<Score>();
     }
 
     IEnumerator Timer()
     {
-        yield return new WaitForSeconds(spawnTime);        
-        SpawnEnemy();        
+        yield return new WaitForSeconds(spawnTime);
+        if (scoreScript.boids < 100)
+        {
+            SpawnEnemy();
+        }
         StartCoroutine(Timer());
     }
 
@@ -26,7 +35,7 @@ public class EnemySpawn : MonoBehaviour
     {
         Vector3 randomSpawnPoint = spawnPoints[Random.Range(0, spawnPoints.Length)].position;
         transform.localRotation = Quaternion.identity;
-        Instantiate(asteroids[Random.Range(0, asteroids.Length)], randomSpawnPoint, Quaternion.identity);
+        Instantiate(whatToSpawn[Random.Range(0, whatToSpawn.Length)], randomSpawnPoint, Quaternion.identity);
         //Debug.Log("Spawn Asteroid.");
     }
     

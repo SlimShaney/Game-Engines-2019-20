@@ -11,21 +11,26 @@
       <e p="Assets" t="Include">
         <e p="MyCurrentScripts" t="Include">
           <e p="audioScript.cs" t="Include" />
+          <e p="Boid.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="EnemySpawn.cs" t="Include" />
           <e p="Gun.cs" t="Include" />
           <e p="Health.cs" t="Include" />
           <e p="HUD.cs" t="Include" />
           <e p="instantiateAudioSpectrum.cs" t="Include" />
+          <e p="NoiseWander.cs" t="Include" />
           <e p="NotCurrentlyInUse" t="Include">
-            <e p="PlayerMove.cs" t="Include" />
             <e p="turretControl.cs" t="Include" />
+            <e p="WaypointFollow.cs" t="Include" />
           </e>
+          <e p="ObstacleAvoidance.cs" t="Include" />
           <e p="PlayerLook.cs" t="Include" />
+          <e p="PlayerMove.cs" t="Include" />
           <e p="sceneLoader.cs" t="Include" />
           <e p="Score.cs" t="Include" />
+          <e p="shipSpawnSettings.cs" t="Include" />
+          <e p="SteeringBehaviour.cs" t="Include" />
           <e p="turretsFire.cs" t="Include" />
-          <e p="WaypointFollow.cs" t="Include" />
         </e>
         <e p="Plugins&amp;ImportedAssets" t="Include">
           <e p="Asteroids Pack" t="Include">

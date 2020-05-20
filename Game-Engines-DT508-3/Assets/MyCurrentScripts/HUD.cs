@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class HUD : MonoBehaviour
 {
+    private GameObject gameManager;
+    
     public TMP_Text currentHealth;
     public TMP_Text currentScore;
     
@@ -14,7 +16,9 @@ public class HUD : MonoBehaviour
     void Start()
     {
         health = GetComponent<Health>();
-        score = GetComponentInChildren<Score>();
+        //score = GetComponentInChildren<Score>();
+        gameManager = GameObject.FindGameObjectWithTag("Game Manager");
+        score = gameManager.GetComponent<Score>();
     }
 
     void Update()

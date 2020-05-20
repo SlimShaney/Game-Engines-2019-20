@@ -8,10 +8,13 @@ public class Score : MonoBehaviour
 {    
     public static float score;
     public float currentScore;
+
+    public float boids;
     
     void Start()
     {
-        score = 0;        
+        score = 0;
+        boids = 0;
     }
 
     private void Update()
